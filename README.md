@@ -1,7 +1,7 @@
 # CRYPTO CLUSTERING CHALLENGE
 
 ## Background:
-The purpose of this repristory is to put use of my knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
+The purpose of this repository is to put use of my knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
     ANALYSIS
    - ***What is the best value for k?*** 4 is the best value for K.
