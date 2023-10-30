@@ -1,4 +1,5 @@
 # CRYPTO CLUSTERING CHALLENGE
+![image](https://github.com/sorapmas/CryptoClustering/assets/128443029/ba3b9b5c-bfa7-4c69-a83c-8aa89ecd85d9)
 
 ## Background:
 The purpose of this repository is to put use of my knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
